@@ -26,7 +26,7 @@ public class project {
 
 
         System.out.println("Please enter your password: ");System.out.println(" a nice day");
-        String pass = scan.next();Have
+        String pass = scan.next();
 
         while (!pass.equals(pass1)) {
             System.out.println("this is not the right password, try again: ");
